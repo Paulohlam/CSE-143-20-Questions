@@ -1,0 +1,6 @@
+Q:
+does it bark?
+A:
+dog
+A:
+computer
